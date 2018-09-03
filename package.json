@@ -18,7 +18,7 @@
     "@angular/upgrade": "^5.0.0",
     "body-parser": "~1.15.2",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "debug": "~2.2.0",
     "hbs": "~3.1.0",
     "reflect-metadata": "^0.1.3",
     "core-js": "^2.4.1",
@@ -61,12 +61,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xajay/openShift_frontend"
+    "url": "http://github.com/xajayks/nodejs-ex.git"
   },
   "author": "Ajay Sharma <xajayks@gmail.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "https://github.com/xajay/openShift_frontend"
+    "url": "http://github.com/openshift/nodejs-ex/issues"
   },
-  "homepage": "https://github.com/xajay/openShift_frontend"
+  "homepage": "http://github.com/openshift/nodejs-ex"
 }
